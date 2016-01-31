@@ -56,10 +56,10 @@ tBodyGyroJerkMean	Continuous
 		
 Two additional varialbes describe the subject (smartphone) from which the measurements were recorded, and the category of activity being measured.		
 Variable Name	    Variable Type	    Category Value
-Subject	          Categorical	      Numeric (1:30)
-Activity	        Categorical	      1 WALKING
-		                                2 WALKING_UPSTAIRS
-		                                3 WALKING_DOWNSTAIRS
-		                                4 SITTING
-		                                5 STANDING
-		                                6 LAYING
+*Subject	          Categorical	      Numeric (1:30)
+*Activity	        Categorical	      1 WALKING
+*		                                2 WALKING_UPSTAIRS
+*		                                3 WALKING_DOWNSTAIRS
+*		                                4 SITTING
+*		                                5 STANDING
+*		                                6 LAYING
